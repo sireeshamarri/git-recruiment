@@ -1,7 +1,11 @@
-def add_two_numbers(a,b):
-    return a+b
-if _name =="_main":
-    num1 = 10
-    num2 = 20
-    result = add_two_numbers(num1,num2)
-    print("the result is: {result}")
+# Python script to add two numbers
+
+# Define two numbers
+num1 = 2 
+num2 = 10 
+
+# Add the numbers
+sum_result = num1 + num2
+
+# Display the result
+print(f"The sum of {num1} and {num2} is: {sum_result}")
